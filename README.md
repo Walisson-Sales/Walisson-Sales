@@ -38,13 +38,6 @@
     <img align="center" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif"/>
   </div>
 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/:user">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PennyWASS?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fw%25C3%25A1lisson-andrey-sales-dutra-2450a1232%2F">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PennyWASS?style=flat&logo=Linkedin&logoColor=blue&label=linkedin&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fw%25C3%25A1lisson-andrey-sales-dutra-2450a1232%2F">
-
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-
-
 </div>
 
 ##
