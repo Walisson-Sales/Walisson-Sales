@@ -4,20 +4,17 @@
   <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PennyWASS&show_icons=True&theme=tokyonight&include_all_commits=True&count_private=true&locale=pt-pt&rank_icon=github"/>
   <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PennyWASS&layout=compact&langs_count8&theme=tokyonight&size_weight=0.5&count_weight=0.5&custom_title=Linguagens+Mais+Usadas"/>  
 </div>
-
-<div>
+<div align="center">
   <h3>Tecnologias que eu domino:</h3>
-    <li>Front-End:</li>
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <li>Back-End:</li>
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <li>Design:</li>
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-      
+</div>
+    
 ##
   
   <h3 align="center">Quem sou eu?</h3>
