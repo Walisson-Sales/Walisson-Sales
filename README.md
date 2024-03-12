@@ -16,6 +16,7 @@
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <br> <br>
       <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fw%25C3%25A1lisson-andrey-sales-dutra-2450a1232%2F">
 </div>
+
 ##
   
   <h3 align="center">Quem sou eu?</h3>
