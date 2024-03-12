@@ -1,21 +1,7 @@
-<!--
-**PennyWASS/PennyWASS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Olá! Bem-vindo(a) ao meu perfil 😊
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/w%C3%A1lisson-andrey-sales-dutra-2450a1232/">
-  <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PennyWASS&show_icons=True&theme=tokyonight&include_all_commits=True&count_private=true&custom_title=Status+do+Github+de+Wálisson"/>
+  <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PennyWASS&show_icons=True&theme=tokyonight&include_all_commits=True&count_private=true&locale=pt-pt&rank_icon=github"/>
   <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PennyWASS&layout=compact&langs_count8&theme=tokyonight&size_weight=0.5&count_weight=0.5&custom_title=Linguagens+Mais+Usadas"/>  
 </div>
 
@@ -31,13 +17,13 @@ Here are some ideas to get you started:
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <li>Design:</li>
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-          
+      
 ##
   
-  <h3>Quem sou eu?</h3>
+  <h3 align="center">Quem sou eu?</h3>
   <div>
     <li>Apresentação</li>
-      <p>
+      <p margin-left=50px>
         Meu nome é Wálisson, sou graduando no curso de Ciência da Computação na Unipê 💻. <br>
         Minha jornada com a programação começou ainda no meu ensino médio por meio do curso técnico em informática ofertado pelo IFPB campus Catolé do Rocha <br>
         Tenho um pouco de conhecimento das principais linguagens de programação. Pretendo me especializar na área de Dados ou em desenvolvimento Full Stack 👨‍💻.
@@ -49,7 +35,7 @@ Here are some ideas to get you started:
     </p>
   </div>
 
-  <div>
+  <div align="center">
     <img align="center" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif"/>
   </div>
 
