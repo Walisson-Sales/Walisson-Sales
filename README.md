@@ -13,8 +13,12 @@
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
       <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <br> <br>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <br />
+      <p>Contato:</p>
       <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fw%25C3%25A1lisson-andrey-sales-dutra-2450a1232%2F">
+      <a href="mailto:walissonestudando@gmail.com?subject=subject text" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red">
+      </a>
 </div>
 
 ##
@@ -39,5 +43,3 @@
   </div>
 
 </div>
-
-##
